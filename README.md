@@ -1,4 +1,4 @@
-👋 Hello There! ✨ 
+#👋 Hello There! ✨ 
  
 I’m Dhana Nallaka, a Data Engineer with 4.4 years of experience (including internships). I specialize in building scalable ETL pipelines, working with Big Data technologies, and enabling actionable insights using cloud platforms and modern data engineering tools.  
 
