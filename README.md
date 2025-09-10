@@ -1,7 +1,8 @@
 👋 Hello There! ✨  
 I’m Dhana Nallaka, a Data Engineer with 4.4 years of experience (including internships). I specialize in building scalable ETL pipelines, working with Big Data technologies, and enabling actionable insights using cloud platforms and modern data engineering tools.  
 
-[LinkedIn](https://www.linkedin.com/in/nnddhanalakshmi/) | [Email](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnddhanalakshmi/)  
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
