@@ -7,7 +7,7 @@ I’m Dhana Nallaka, a Data Engineer with 4.4 years of experience (including int
 
 ---
 
-🛠️ **Skills & Technologies**  
+## 🛠️ **Skills & Technologies**  
 
 **Languages:** Python, SQL, PowerShell, Bash Scripting 
 **Data Engineering & Processing:** Spark (Core, SQL, MLlib, Streaming), Kafka, ETL/ELT Pipelines, Airflow, IBM DataStage  
